@@ -4,8 +4,8 @@ A Eurorack VCO module with 8 harmonic ramp outputs
 
 - Range (fundamental): 0.1Hz to 10kHz  
 - Supply current:
-  - +12V: 100mA max
-  - -12V: 68mA max
+  - +12V: 100mA
+  - -12V: 68mA
 - Features: Expo and linear frequency modulation, harmonic phase offset and modulation, sync
 
 Part of the [GHOQ](../) module collection.
