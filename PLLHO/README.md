@@ -37,4 +37,4 @@ Many ModWigglers participated in the GHOQ thread and contributed to PLLHO design
 
 ## License
 
-CC BY-NC-SA 4.0 — non-commercial use only. See [LICENSE](LICENSE).
+CC BY-NC-SA 4.0 — covers the PLLHO principles of operation and this implementation (schematics, PCBs, docs); non-commercial use only. See [LICENSE](LICENSE).
